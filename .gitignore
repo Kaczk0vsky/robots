@@ -1,0 +1,10 @@
+data/
+.vscode/
+.log
+db.sqlite3
+*.sqlite3
+.env
+db.robots
+app1/migrations/
+app1/__pycache__/
+*.pyc

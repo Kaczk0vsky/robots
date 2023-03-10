@@ -1,0 +1,9 @@
+[robot_info]
+serial_number = '1'
+production_date = '2023-03-01'
+type = '4 wheeler'
+company = ''
+
+[mqtt]
+topic = 'task1_beb'
+interval_time = '10'
