@@ -6,6 +6,9 @@ Run following commands to run the project:
 python manage.py makemigrations 
 python manage.py migrate
 python manage.py createsuperuser (allows you to login to django admin panel "http://localhost:8000/admin/")
+```
+Next copy ".env.template" file and fill it with missing elements. Then run command:
+```
 docker compose up
 ```
 Views are available under following links:
